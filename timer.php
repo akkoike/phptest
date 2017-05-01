@@ -3,7 +3,7 @@
  * ここから
  */
 $timerStartTime = '2016/11/16 00:00:00';
-$timerEndTime = '2016/11/29 09:00:00';
+$timerEndTime = '2017/06/29 09:00:00';
 $timerEndRedirectURL = 'http://iamazurenaut.biz/success.htm';
 /**
  * ここまで設定変更可
